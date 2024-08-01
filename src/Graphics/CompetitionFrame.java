@@ -151,3 +151,4 @@ public class CompetitionFrame extends JFrame {
         new CompetitionFrame();
     }
 }
+// shinu
