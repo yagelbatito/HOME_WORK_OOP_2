@@ -28,6 +28,7 @@ public class CompetitionFrame extends JFrame {
     private final int preferedWidth = 1024;
     private final int preferedHeight = 768;
     private CompetitationPanel competitationPanel;
+    private int check;
     /**
      * Constructs a `CompetitionFrame` object and initializes the frame.
      * Loads the background image and sets up the main panel and menu bar.
